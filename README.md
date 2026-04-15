@@ -33,6 +33,8 @@ Este proyecto es una aplicación web interactiva diseñada para poner a prueba l
     ```bash
     nodemon index.js
     ```
+    Interfaz<img width="1366" height="768" alt="Screenshot 2026-04-15 063035" src="https://github.com/user-attachments/assets/0218733c-c870-459b-98d8-6d0f0e7faa64" />
+
 
 ## 👨‍💻 Desarrollado por
 **Rodolfo Jose Martinez Miranda**
